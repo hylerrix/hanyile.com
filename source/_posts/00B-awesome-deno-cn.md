@@ -2,20 +2,13 @@
 
 > 《Deno 钻研之术》系列于 Deno v1 正式发售之日全新推出，每周不定期更新在 Github 中（[https://github.com/hylerrix/deno-tutorial](https://github.com/hylerrix/deno-tutorial)）。让我们一起循序渐进学 Deno，先易后难补 Node，面向未来开发属于自己的 Deno Web App。欢迎订阅，欢迎交流。
 
-
-
 一个全新的技术会有怎样的生态？在对 Deno 的好奇和梳理过程中，基于已有的 Awesome Deno 英文列表全新出发，一个专注于中文技术圈的 Deno 资源列表呼之欲出。
 
-
-![image.png](https://cdn.nlark.com/yuque/0/2020/png/86548/1590144018246-716727c5-eb3b-4fba-a562-ac701690ebdb.png#align=left&display=inline&height=337&margin=%5Bobject%20Object%5D&name=image.png&originHeight=592&originWidth=839&size=47035&status=done&style=none&width=478)
-
-
+![](https://cdn.nlark.com/yuque/0/2020/png/86548/1590144018246-716727c5-eb3b-4fba-a562-ac701690ebdb.png#align=left&display=inline&height=337&margin=%5Bobject%20Object%5D&name=image.png&originHeight=592&originWidth=839&size=47035&status=done&style=none&width=478)
 
 ## 为什么是 Awesome？
 
-
 Github 集市上广受欢迎的仓库有这么几大类：
-
 
 - 语言类：如 Go、Rust、TypeScript 等，提供高级语言曾经的支持；
 - 基础设施类：如 Linux、Docker 以及云设施等，用来运行、构建更多的顶层应用；
@@ -25,19 +18,13 @@ Github 集市上广受欢迎的仓库有这么几大类：
 - Demo 类：对某项技术进行专项训练和分享；
 - ......
 
-
-
 此外，还有一类上面没有提到的，便是文档类。这包括开放的电子书、开放的博客以及开放的清单——名字带有 Awesome 的清单项目，就成了一套约定俗称的独特风景线。Github 上搜索 Awesome 关键字，可以看到围绕各个知名技术点的仓库中都有若干个获得数以万计的 Star 收藏。这一点连谷歌搜索引擎都做不到。
-
 
 开源，不仅仅是知识内容的公开，更是协作一切的基石。
 
-
 _**该怎样写好 Awesome 清单的 README.md？**_
 
-
 由于 Awesome 项目大多只需要从仓库中的 README.md 展示所有内容，所以写出一个良好的 README.md 便是十分重要的。这包括：
-
 
 - 友好的介绍文字：开门见山；
 - 设计良好的目录：能从目录快速了解和索引这一切；
@@ -46,48 +33,31 @@ _**该怎样写好 Awesome 清单的 README.md？**_
 - 参与贡献的方式与开源协议：鼓励更多人参与贡献；
 - 一些独特性：标新立异，难以忘记。
 
-
-
 _**没有技术含量的 Awesome 清单整理太无聊？**_
-
 
 的确，单纯的梳理也需要花费不少的时间，累加起来都能玩好几局不错的游戏。对于自身的技术成长来说，也不会有直观的改进。但最重要的好处是，维护一份 Awesome 清单，可以让自己亲自参与创造，有更主动的机会去比别人更敏锐地观察生态圈的发展历程甚至发展方向。
 
-
 _**该不该建立属于自己的 Awesome 清单？**_
-
 
 如果你的技术学习时间较为充分，花一小部分时间来在社区维护一份 Awesome 清单是十分有趣的，也可以了解很多生态故事，结识很多好友。切记需要考虑的是：社区中是不是已经有相关的 Awesome 资源，并且已经初步“占领”市场了？毕竟没有人会喜欢给一大堆相差无几的清单点 Star。如果像本文这份清单一样，社区中已经有一份英文清单，再自己维护一份专注中文版的清单一起成长，也不错。
 
-
 _**Awesome 的未来是什么？**_
-
 
 文档就够了，我们可以翻阅到想要的一切。然而从程序员的角度来看这份清单，是不是能抽离出很多共同点？都是层级的标题下放置若干个链接、每个链接可能是文章、仓库地址、网站网址、视频地址等，最后再配上通用的介绍文字/贡献指南和开源协议...我有一个想法，就差一个程序员了。
 
-
 _**急需你的贡献。**_
-
 
 纯个人的梳理局限性很大，也很繁琐，快在社区中选个感兴趣的 Awesome 清单贡献开源吧！比如，这个 Awesome Deno CN？
 
-
 正式开始吧。
-
 
 > 注：本文截止统计于 2020-05-22，更多内容随时更新在 Github 上的 [Awesome Deno CN](https://github.com/hylerrix/awesome-deno-cn) 中。
 
+## Deno 中文资源全图谱 · v1.0.0
 
-
-## Deno 中文资源全图谱 · v1.0.0[
-](https://github.com/sindresorhus/awesome)
-
-
-![image.png](https://cdn.nlark.com/yuque/0/2020/png/86548/1590131737208-48b6410f-f29e-4ec0-922c-a42cf6c6ed96.png#align=left&display=inline&height=188&margin=%5Bobject%20Object%5D&name=image.png&originHeight=376&originWidth=376&size=47946&status=done&style=none&width=188)
-
+![](https://cdn.nlark.com/yuque/0/2020/png/86548/1590131737208-48b6410f-f29e-4ec0-922c-a42cf6c6ed96.png#align=left&display=inline&height=188&margin=%5Bobject%20Object%5D&name=image.png&originHeight=376&originWidth=376&size=47946&status=done&style=none&width=188)
 
 ### 目录
-
 
 - 为什么有这个项目？
    - 独特之处
@@ -127,13 +97,9 @@ _**急需你的贡献。**_
    - 社交媒体（英文）
 - 开源协议
 
-
-
 以下资源 🌟 代表品质推荐，⚠️ 代表注意事项。由于资源分类的多样性考虑，部分章节内容可能会有所重复。
 
-
 ### 独特之处
-
 
 - [x] 长期提供更新，收集越来越多高质量的 Deno 资源，愿我们与 Deno 一起成长。
 - [x] 随着 Deno 主版本进行版本归档更新。
@@ -142,10 +108,7 @@ _**急需你的贡献。**_
 - [x] 及时跟进 [@olivewind/awesome-deno](https://github.com/olivewind/awesome-deno-cn) 仓库。
 - [ ] 开发更好看的 UI 页面来展示这个资源列表。
 
-
-
 ### 更新日志
-
 
 - [x] 2020-04-14 初始化本项目，填充独特的中文版内容。
 - [x] 2020-04-14 跟进最新的（180+ Star） [@olivewind/awesome-deno](https://github.com/olivewind/awesome-deno) 仓库内容。
@@ -154,49 +117,31 @@ _**急需你的贡献。**_
 - [x] 2020-05-17 跟进中文化后大改版的（200+ Star） [@olivewind/awesome-deno-cn](https://github.com/olivewind/awesome-deno-cn) 仓库内容。
 - [x] 2020-05-22 全网搜索 Deno 中英文资源并入库，发布 v1.0 版本并收录在[《Deno 钻研之术》](https://github.com/denolib/awesome-deno)第二篇中。
 
-
-
 ## 前言：从 Node.js 到 Deno.js
-
 
 - [《Node.js 的设计缺陷》](http://tinyclouds.org/jsconf2018.pdf)：官方 PDF 演讲稿。
 - [《Design Mistakes in Node》Node 之父 Ryan Dahl 演讲 PPT 中文版 (2018 JS Conf Berlin)](https://zhuanlan.zhihu.com/p/37637923)：发布于 2018-06-03。
 
-
-
 ## 技术文档
-
 
 ### 官方文档
 
-
 > 包括中文社区的文档。
-
-
 
 - [deno.land](https://deno.land)：🌟，Deno 官网。
 - [Deno API 类型手册](https://deno.land/typedoc/)：
 - [doc.deno.land](https://doc.deno.land)：自动化 Deno 文档生成器。
 - [Deno Registry](https://deno.land/x/)：Deno 第三方库汇总。
 
-
-
 ### 中文社区文档
-
 
 - [@denodev/typedoc](https://github.com/denodev/typedoc)：🌟，Deno API 简体中文版。
 
-
-
 ## 基础设施
-
 
 ### DenoLand 核心库
 
-
 > 更多的官方模块可以在 [deno_std](https://deno.land/std/) 上找到，目前版本 0.52.0。
-
-
 
 - [deno/std/archive](https://deno.land/std/archive)。
 - [deno/std/async](https://deno.land/std/async)。
@@ -221,14 +166,9 @@ _**急需你的贡献。**_
 - [deno/std/uuid](https://deno.land/std/uuid)。
 - [deno/std/ws](https://deno.land/std/ws)。
 
-
-
 ### Deno 周边社区库
 
-
 > 重点将第三方库中，Github 组织带有 Deno 关键字的库专注整理这里。
-
-
 
 - [@denolib/ms](https://github.com/denolib/ms)：轻松地将各种时间格式转换为毫秒。
 - [@denolib/qs](https://github.com/denolib/qs)：具有嵌套支持的 querystring 解析器。
@@ -242,17 +182,11 @@ _**急需你的贡献。**_
 - [@denoserverless/jwt](https://github.com/denoserverless/jwt)：auth0/jsonwebtoken 的端口。
 - [@denoserverless/type-fest](https://github.com/denoserverless/type-fest)：基本 TypeScript 类型的集合（sindresorhus 端口/type-fest）
 
-
-
 ### 第三方库
-
 
 > 更多内容可以看 Deno 官网上的[第三方库列表](https://deno.land/x)。可以将你的存储库提交到 [deno.land/x](https://github.com/denoland/deno_website2/blob/master/src/database.json) 中。
 
-
-
 如果你有兴趣帮忙按字母排列下方的列表的话，欢迎 PR！
-
 
 - [@allain/expect](https://github.com/allain/expect)：在 Deno 中编写 Jest 的助手。
 - [@alosaur/alosaur](https://github.com/alosaur/alosaur)：具有许多装饰器的 Deno Web框架。
@@ -345,14 +279,9 @@ _**急需你的贡献。**_
 - [@zekth/deno_tiny_templates](https://github.com/zekth/deno_tiny_templates)：Deno 的模板渲染器。
 - [@zhmushan/dev_server](https://github.com/zhmushan/dev_server)：让 TypeScript 文件直接在 script 标签中使用。
 
-
-
 ### 底层生态
 
-
 > Deno 本身依赖的技术的清单库
-
-
 
 - [@dzharii/awesome-typeScript](https://github.com/dzharii/awesome-typescript)。
 - [@semlinker/awesome-typeScript](https://github.com/semlinker/awesome-typescript)。
@@ -361,28 +290,18 @@ _**急需你的贡献。**_
 - [@avelino/awesome-go](https://github.com/avelino/awesome-go)。
 - [@jobbole/awesome-go-cn](https://github.com/jobbole/awesome-go-cn)：中文版。
 
-
-
 ### 在线沙箱
-
 
 - deno-play.app：（⚠ 证书问题）。
 - [deno.town](https://deno.town/)：在线执行 Deno 代码。
 
-
-
 ## 技术教程
-
 
 ### 演讲稿（中文）
 
-
 - ...逐步添加中，欢迎 Star & Fork & PR。
 
-
-
 ### 演讲稿（英文）
-
 
 - [Ryan Dahl - 我为 Node.js 感到遗憾的 10 件事 | JSConf EU 2018](https://www.youtube.com/watch?v=M3BM9TB-8yA)
    - [演讲稿](https://tinyclouds.org/jsconf2018.pdf)
@@ -404,14 +323,9 @@ _**急需你的贡献。**_
    - [演讲稿](https://docs.google.com/presentation/d/1LYNGpyjx9PemL-P__7hVC8mSqkX-jL8VQLMhCRehy00/edit?usp=sharing)
 - [Ryan Dahl & Kitson Kelly:  Deno 是一种新的 JavaScript 方法 | TSConf 2019](https://www.youtube.com/watch?v=1gIiZfSbEAE)
 
-
-
 ### 单篇文章（中文）
 
-
 > 专注于收集高质量的博客文章，更多内容可以在谷歌/百度上搜索。目前 Deno 文章不多，尽可能多的诺列不设内容质量限制。
-
-
 
 - [听说要干掉node.js？用Deno实现价值上亿的AI核心算法试一下](https://juejin.im/post/5ebcfe79e51d454def2279bc)：发布于 2020-05-14。
 - [了不起的 Deno 入门教程](https://mp.weixin.qq.com/s/2eqRTsf_z7Bcs6dziXe73Q)，发布于 2020-05-14。
@@ -423,10 +337,7 @@ _**急需你的贡献。**_
 - [玩 Deno 遇到问题的解决方案](https://juejin.im/post/5b1245b3f265da6e4c6cf249)：发布于 2018-06-02。
 - [我不看好 Deno](https://zhuanlan.zhihu.com/p/139386360)：发布于 2020-05-10。
 
-
-
 ### 单篇文章（英文）
-
 
 - [First thoughts about Deno](https://www.codegram.com/blog/first-thoughts-about-deno/)：发布于 2020-05-20。
 - [Is Deno the new Node?](https://dev.to/smithg09/is-deno-the-new-node-7o4)：发布于 2020-05-20。
@@ -441,87 +352,53 @@ _**急需你的贡献。**_
 - [What is Deno? A ‘better’ Node.js](https://www.infoworld.com/article/3529779/what-is-deno-a-better-nodejs.html)：发布于 2020-02-28。
 - [Ryan Dahl’s Node.js regrets lead to Deno](https://www.infoworld.com/article/3283250/ryan-dahls-nodejs-regrets-lead-to-deno.html)：发布于 2018-06-21。
 
-
-
 ### 翻译文章（中文）
-
 
 > 这里专门抽来出来中文文章中，是翻译自其它语言（如英语）的文章。
 
-
-
 - [Deno 1.0 即将发布，你需要知道的都在这里了](https://mp.weixin.qq.com/s/YZ39X_-nij-8Hl8vwsFBJA)：原文发布于 2020-05-06 日。
-
-
 
 ### 系列文章（中文）
 
-
 > 目前包括可能会写成电子书的资源。
-
-
 
 - [Deno 进阶开发笔记](https://chenshenhai.com/deno_note)：不定时更新。
 - [Deno 手册](https://nugine.github.io/deno-manual-cn/)。
 
-
-
 ### 系列文章（英文）
-
 
 - [V8 Docs for Deno](https://denolib.github.io/v8-docs/)：面向 Deno 的 V8 文档。
 - [A Guide to Deno Core (Design & For Contributors)](https://denolib.gitbook.io/guide/)：(⚠ 内容过期），发布于 2019 年。
 - [Deno 源码贡献指南（英文版）](https://denolib.gitbook.io/guide):托管于 Gitbook 上。
 
-
-
 ### 技术专栏（中文）
-
 
 - [Deno 开发者社区](https://zhuanlan.zhihu.com/denodev)：知乎专栏，[@justjavac](https://github.com/justjavac) 主导。
 - [Deno 世界](https://zhuanlan.zhihu.com/denoland)：知乎专栏，[@嘤嘤](https://www.zhihu.com/people/yingyingxue) 主导。
 
-
-
 ### 技术专栏（英文）
-
 
 - ...逐步添加中，欢迎 Star & Fork & PR。
 
-
-
 ### 在线视频（中文）
-
 
 - [Bilibilii | 【中英双语】Node 之父 - Deno，一个新的 JS 运行时](https://www.bilibili.com/video/BV124411Y74C)。
 - [Deno 1.0 新特性了解一下](https://www.bilibili.com/video/BV14C4y1H76e)。
 
-
-
 ### 在线视频（英文）
-
 
 - [Deno in 100 Seconds](https://www.youtube.com/watch?v=F0G9lZ7gecE)。
 
-
-
 ## 电子资源
 
-
 > 专注收集公开免费的 PDF、PNG 以及电子书等资源，放置在本项目的 resources 文件夹下。
-
-
 
 - [《Node.js 的设计缺陷（英文版）》](https://www.yuque.com/ningowood/deno-tutorial/resources/design-mistakes-in-node.pdf)。
 - [《Node.js 的设计缺陷（中文版）》](https://www.yuque.com/ningowood/deno-tutorial/resources/design-mistakes-in-node-zh.pdf)。
 
-
-
 ## 技术社区
 
-
 ### 社区列表（全网）
-
 
 - [Deno Discord](https://discord.gg/TGMHGv6)：🌟，Discord 上的 Deno 官方聊天室，有中文社区。
 - [deno.dev](https://deno.dev)：🌟，开发中，[@justjavac](https://github.com/justjavac) 主导。
@@ -529,70 +406,43 @@ _**急需你的贡献。**_
 - [denocn.org](https://denocn.org)：🌟，Deno 中文社区，[@manyuanrong](https://github.com/manyuanrong) 主导。
 - [yydeno](https://github.com/yydeno)：YY 大前端团队 Deno 仓库。
 
-
-
 ### 讨论热帖（中文）
-
 
 - [Deno 会在短期内取代 Node 吗？](https://www.v2ex.com/t/674250)：发布于 2020-05-22。
 - [@v2ex/Deno 1.0](https://v2ex.com/t/671449)：发布于 2020-05-13。
 - [@v2ex/看了 Deno，感觉 TS 前景不可估量啊](https://www.v2ex.com/t/650730)：发布于 2020-03-08。
 
-
-
 ### 讨论热帖（英文）
-
 
 - [Reddit 社区 | Deno](https://www.reddit.com/search/?q=deno)。
 
-
-
 ### Github 开源组织
 
-
 > 重点收集专注于使用 & 回馈 Deno 生态圈的 Github 组织。暂不考虑可能有内容会与“技术社区”栏目重叠的问题。
-
-
 
 - [Deno Land](https://github.com/denoland)：Deno 官方 Github 组织。
 - [Deno Dev](https://github.com/denodev)：Deno 第三方组织之一，[@justjavac](https://github.com/justjavac) 主导。
 - [Deno Lib](https://github.com/denolib)：Deno 第三方组织。
 
-
-
 ## 谁在用 Deno？
-
 
 > 重点收集已经部署在生产环境的应用，欢迎推荐你的案例，逐步完善中。
 
-
-
 - ...逐步添加中，欢迎 Star & Fork & PR。
-
-
 
 ## 其它订阅
 
-
 ### 新闻媒体（英文）
-
 
 - [Deno 新闻推送](https://deno.news)
 
-
-
 ### 社交媒体（英文）
-
 
 - [twitter@deno_land](https://twitter.com/deno_land)：Deno Land 官方推特。
 
-
-
 ## 订阅 & 待续
 
-
 本文编号 002，属于[《Deno 钻研之术》](https://github.com/hylerrix/deno-tutorial/)的生态篇，未来计划逐步展开添加的章节并填充更多的文章，如：
-
 
 - 基础篇：循序渐进学 Deno 基础知识；
 - 标准库篇：深入标准库的内部世界；
@@ -606,13 +456,8 @@ _**急需你的贡献。**_
 - 生态篇：介绍 Deno 生态的相关内容；
 - 翻译篇：【单独编号】翻译优质的、授权的英文一手博文。
 
-
-
 欢迎订阅，一起成长，敬请 Star, Watch & Issue 开源仓库[《Deno 钻研之术》](https://github.com/hylerrix/deno-tutorial/)！。
 
-
 - [https://github.com/hylerrix/deno-tutorial/](https://github.com/hylerrix/deno-tutorial/)
-
-
 
 题外话：截止今天，短短的 9 天仓库涨到人生第一个 108 Star，我还在繁忙的公司任务外更新的这么慢，有点慌~。那就争取每周 2+ 篇吧。🤡
