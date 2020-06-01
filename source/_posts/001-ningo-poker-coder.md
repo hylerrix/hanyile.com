@@ -1,5 +1,6 @@
 ---
 title: 凝果开源 | 一副程序员扑克牌的故事
+date: 2020-01-01
 ---
 
 2019 年 4 月 25 日，Github Star 第一的开源项目 freeCodeCamp 创始人 Qunicy 发表了一篇文章，[《Introducing Programmer Playing Cards》](https://www.freecodecamp.org/news/programmer-playing-cards/)，介绍了一副可以边玩边了解程序员历史的扑克牌。几个月后，因着自己对 FCC China 的持续投入，收到了其中的两份卡牌，也塑造了这篇文章、以及这个开源项目的灵感起源。
