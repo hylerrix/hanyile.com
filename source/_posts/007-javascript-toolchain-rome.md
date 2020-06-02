@@ -1,6 +1,13 @@
 ---
 title: 欲取代绝大多 JavaScript 工具链？Rome 尝鲜
 date: 2020-04-10
+comments: true
+toc: true
+categories: "JavaScript 技术精进"
+tags:
+  - JavaScript
+  - Rome
+  - 工具链
 ---
 
 ![](https://cdn.nlark.com/yuque/0/2020/png/86548/1586251655258-cd0f8a3b-f353-44d3-a591-784c03469d29.png#align=left&display=inline&height=277&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1320&originWidth=2048&size=664613&status=done&style=none&width=429)

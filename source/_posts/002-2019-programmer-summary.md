@@ -1,6 +1,12 @@
 ---
 title: 作为程序员，你在 2019年都有哪些进步、收获与成长？
 date: 2020-01-03
+comments: true
+toc: true
+categories: "个人成长"
+tags:
+  - 程序员
+  - 总结
 ---
 
 > 本文首次回答自知乎，回答原文“[作为程序员，你在 2019年都有哪些进步、收获与成长？](https://www.zhihu.com/question/363043667/answer/961312815)”

@@ -1,6 +1,12 @@
 ---
 title: Deno 入门手册：附大量 TypeScript 代码实例
 date: 2020-05-18
+comments: true
+toc: true
+categories: "Deno 钻研之术"
+tags:
+  - Deno
+  - TypeScript
 ---
 
 > - 原文地址：[The Deno Handbook: A TypeScript Runtime Tutorial with Code Examples](https://www.freecodecamp.org/news/the-deno-handbook/)

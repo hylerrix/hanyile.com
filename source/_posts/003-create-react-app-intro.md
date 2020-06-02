@@ -1,6 +1,12 @@
 ---
 title: 深入浅出 Create React App
 date: 2020-01-10
+comments: true
+toc: true
+categories: "JavaScript 技术精进"
+tags:
+  - JavaScript
+  - React
 ---
 
 本文差点难产而死。因为总结的过程中，多次怀疑本文是对官方文档的直接翻译和简单罗列；同时官方文档很全面，全范围的介绍无疑加深了写作的心智负担。但在最终的梳理中，发现走出了一条与众不同的路，于是坚持分享出来。

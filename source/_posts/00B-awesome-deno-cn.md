@@ -1,6 +1,12 @@
 ---
 title: Awesome Deno 中文资源全图谱
 date: 2020-05-22
+comments: true
+toc: true
+categories: "Deno 钻研之术"
+tags:
+  - Deno
+  - Awesome
 ---
 
 > 《Deno 钻研之术》系列于 Deno v1 正式发售之日全新推出，每周不定期更新在 Github 中（[https://github.com/hylerrix/deno-tutorial](https://github.com/hylerrix/deno-tutorial)）。让我们一起循序渐进学 Deno，先易后难补 Node，面向未来开发属于自己的 Deno Web App。欢迎订阅，欢迎交流。

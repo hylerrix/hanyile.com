@@ -1,6 +1,12 @@
 ---
 title: Deno + WebSockets 打造聊天室应用
 date: 2020-05-25
+comments: true
+toc: true
+categories: "Deno 钻研之术"
+tags:
+  - Deno
+  - WebSockets
 ---
 
 > - 原文地址：[Learn Deno: Chat app](https://aralroca.com/blog/learn-deno-chat-app)

@@ -1,6 +1,12 @@
 ---
 title: 从 Node 到 Deno：探索各大主流库替代方案
 date: 2020-06-04
+comments: true
+toc: true
+categories: "Deno 钻研之术"
+tags:
+  - Deno
+  - Node
 ---
 
 > - 原文地址：[From Node to Deno](https://aralroca.com/blog/from-node-to-deno)
