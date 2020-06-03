@@ -3,6 +3,7 @@ title: 从 Node 到 Deno：探索各大主流库替代方案
 date: 2020-06-04
 comments: true
 toc: true
+# thumbnail: https://cdn.nlark.com/yuque/0/2020/jpeg/86548/1591241263396-a27163d1-af55-4345-8a57-f312ab509b36.jpeg
 categories: "Deno 钻研之术"
 tags:
   - Deno
@@ -16,7 +17,7 @@ tags:
 > - 备注：本文已获原作者授权，同时本文会收录在[《Deno 钻研之术》](https://github.com/hylerrix/deno-tutorial)的翻译篇中。
 > - 备注：本文独立争取授权与翻译的同时，发现 InfoQ 等平台也独立授权翻译，可以作为对比。看来翻译的文章不能积压，要不也会错失风口~
 
-![](https://cdn.nlark.com/yuque/0/2020/jpeg/86548/1591241263396-a27163d1-af55-4345-8a57-f312ab509b36.jpeg#align=left&display=inline&height=432&margin=%5Bobject%20Object%5D&originHeight=432&originWidth=959&size=0&status=done&style=none&width=959)
+<!-- more -->
 
 上周我发表了一篇关于 Deno 的文章：[《Deno + WebSockets 打造聊天室应用》](https://aralroca.com/blog/learn-deno-chat-app)。在那之后，有很多困惑接踵而至——其中大部分都在思考如何在全新的 Deno 生态中来做 Node.js 上常做的工作。
 

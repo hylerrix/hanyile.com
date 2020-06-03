@@ -3,6 +3,7 @@ title: 作为程序员，你在 2019年都有哪些进步、收获与成长？
 date: 2020-01-03
 comments: true
 toc: true
+# thumbnail: https://cdn.nlark.com/yuque/0/2020/png/86548/1578048093919-6faa2f79-7806-4385-8f83-6b4941ca4909.png
 categories: "个人成长"
 tags:
   - 程序员
@@ -12,6 +13,8 @@ tags:
 > 本文首次回答自知乎，回答原文“[作为程序员，你在 2019年都有哪些进步、收获与成长？](https://www.zhihu.com/question/363043667/answer/961312815)”
 
 不请自来，答一波，作为我在 b 乎的第一张通行证。
+
+<!-- more -->
 
 在 2019 年，我完成了从本科生到程序员职场的身份转换。恰好借用隔壁 [@沈世钧](https://www.zhihu.com/people/d069b25d6ca84652cb81ab3109572d90) 前辈的一句话开头，便是——这一年，表面的我波澜不惊，但内心其实经历了巨大的蜕变。
 

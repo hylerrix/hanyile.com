@@ -3,6 +3,7 @@ title: Awesome Deno 中文资源全图谱
 date: 2020-05-22
 comments: true
 toc: true
+# thumbnail: https://cdn.nlark.com/yuque/0/2020/png/86548/1590144018246-716727c5-eb3b-4fba-a562-ac701690ebdb.png
 categories: "Deno 钻研之术"
 tags:
   - Deno
@@ -13,7 +14,7 @@ tags:
 
 一个全新的技术会有怎样的生态？在对 Deno 的好奇和梳理过程中，基于已有的 Awesome Deno 英文列表全新出发，一个专注于中文技术圈的 Deno 资源列表呼之欲出。
 
-![](https://cdn.nlark.com/yuque/0/2020/png/86548/1590144018246-716727c5-eb3b-4fba-a562-ac701690ebdb.png#align=left&display=inline&height=337&margin=%5Bobject%20Object%5D&name=image.png&originHeight=592&originWidth=839&size=47035&status=done&style=none&width=478)
+<!-- more -->
 
 ## 为什么是 Awesome？
 
@@ -26,6 +27,8 @@ Github 集市上广受欢迎的仓库有这么几大类：
 - 插件类：给各大浏览器、编辑器等环境提供拓展功能；
 - Demo 类：对某项技术进行专项训练和分享；
 - ......
+
+
 
 此外，还有一类上面没有提到的，便是文档类。这包括开放的电子书、开放的博客以及开放的清单——名字带有 Awesome 的清单项目，就成了一套约定俗称的独特风景线。Github 上搜索 Awesome 关键字，可以看到围绕各个知名技术点的仓库中都有若干个获得数以万计的 Star 收藏。这一点连谷歌搜索引擎都做不到。
 

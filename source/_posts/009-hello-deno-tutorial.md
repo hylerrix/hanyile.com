@@ -3,6 +3,7 @@ title: Hello，从多样化安装到简单实战
 date: 2020-05-13
 comments: true
 toc: true
+# thumbnail: https://cdn.nlark.com/yuque/0/2020/png/86548/1589276497896-b44833fd-0e49-4f4f-8b09-c571226431c1.png
 categories: "Deno 钻研之术"
 tags:
   - Deno
@@ -10,6 +11,8 @@ tags:
 ---
 
 《Deno 钻研之术》系列于 Deno v1 正式发售之日全新推出，每周不定期更新在 Github 中（[https://github.com/hylerrix/deno-tutorial](https://github.com/hylerrix/deno-tutorial)）。让我们一起循序渐进学 Deno，先易后难补 Node，面向未来开发属于自己的 Deno Web App。欢迎订阅，欢迎交流。
+
+<!-- more -->
 
 ![](https://cdn.nlark.com/yuque/0/2020/png/86548/1589276497896-b44833fd-0e49-4f4f-8b09-c571226431c1.png#align=left&display=inline&height=227&margin=%5Bobject%20Object%5D&name=image.png&originHeight=500&originWidth=1500&size=1423569&status=done&style=none&width=681)
 

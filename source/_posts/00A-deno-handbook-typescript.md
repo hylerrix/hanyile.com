@@ -3,6 +3,7 @@ title: Deno 入门手册：附大量 TypeScript 代码实例
 date: 2020-05-18
 comments: true
 toc: true
+# thumbnail: https://cdn.nlark.com/yuque/0/2020/jpeg/86548/1589798108212-9cf6dc3e-0bc8-4194-8d77-f6dafc31dcc1.jpeg
 categories: "Deno 钻研之术"
 tags:
   - Deno
@@ -16,6 +17,8 @@ tags:
 > - 校对者：[hylerrix](https://github.com/hylerrix)（韩亦乐）
 > - 备注：本文遵循 [freeCodeCamp 翻译规范](https://github.com/freeCodeCamp/news-translation)，同时本文会收录在[《Deno 钻研之术》](https://github.com/hylerrix/deno-tutorial)的翻译篇中。
 > - 备注：非营利组织 freeCodeCamp.org 自 2014 年成立以来，以“帮助人们免费学习编程”为使命，创建了大量免费的编程教程，包括交互式课程、视频课程、文章等。线下开发者社区遍布 160 多个国家、2000 多个城市。我们正在帮助全球数百万人学习编程，希望让世界上每个人都有机会获得免费的优质的编程教育资源，成为开发者或者运用编程去解决问题。搜索关注微信公众号 “freeCodeCamp”，可了解更多信息。
+
+<!-- more -->
 
 ![](https://cdn.nlark.com/yuque/0/2020/jpeg/86548/1589798108212-9cf6dc3e-0bc8-4194-8d77-f6dafc31dcc1.jpeg#align=left&display=inline&height=904&margin=%5Bobject%20Object%5D&originHeight=904&originWidth=1706&size=0&status=done&style=none&width=1706)
 

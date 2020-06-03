@@ -3,6 +3,7 @@ title: 凝果开源 | 一副程序员扑克牌的故事
 date: 2020-01-01
 comments: true
 toc: true
+# thumbnail: https://cdn.nlark.com/yuque/0/2020/png/86548/1577865414793-48dc2dae-5855-4add-af34-b17c180fc00d.png
 categories: "凝果开源"
 tags:
   - 凝果开源
@@ -12,6 +13,8 @@ tags:
 ---
 
 2019 年 4 月 25 日，Github Star 第一的开源项目 freeCodeCamp 创始人 Qunicy 发表了一篇文章，[《Introducing Programmer Playing Cards》](https://www.freecodecamp.org/news/programmer-playing-cards/)，介绍了一副可以边玩边了解程序员历史的扑克牌。几个月后，因着自己对 FCC China 的持续投入，收到了其中的两份卡牌，也塑造了这篇文章、以及这个开源项目的灵感起源。
+
+<!-- more -->
 
 整副卡牌共 54 张扑克，包含大小王和四种花色的各 13 张牌。卡牌全部由 100% PVC 材质打造，适度弯曲、浸水以及打火机烘烤都不会影响卡片的耐久度；卡牌包含 54 位程序员先锋的故事，每一张卡片内含一个程序员的生活照片、主要成就清单，以及摘自 TA 的名言——正是这些先锋们开创了现代程序员所依赖的技术。
 

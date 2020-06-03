@@ -3,6 +3,7 @@ title: Deno + WebSockets 打造聊天室应用
 date: 2020-05-25
 comments: true
 toc: true
+# thumbnail: https://cdn.nlark.com/yuque/0/2020/jpeg/86548/1590401997017-804006f5-6110-4c28-8a17-2242352773d1.jpeg
 categories: "Deno 钻研之术"
 tags:
   - Deno
@@ -15,7 +16,7 @@ tags:
 > - 译者：[hylerrix](https://github.com/hylerrix)
 > - 备注：本文已获原作者授权，同时本文会收录在[《Deno 钻研之术》](https://github.com/hylerrix/deno-tutorial)的翻译篇中。
 
-![](https://cdn.nlark.com/yuque/0/2020/jpeg/86548/1590401997017-804006f5-6110-4c28-8a17-2242352773d1.jpeg#align=left&display=inline&height=432&margin=%5Bobject%20Object%5D&originHeight=432&originWidth=960&size=0&status=done&style=none&width=960)
+<!-- more -->
 
 Node.js 最初由 [Ryan Dahl](https://en.wikipedia.org/wiki/Ryan_Dahl) 于 2009 年基于 C++ 语言创建。到了 2012 年，Ryan 觉得自己或多或少地已经实现了当年的目标便离开了 Node.js 项目。
 

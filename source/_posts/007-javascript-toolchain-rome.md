@@ -3,6 +3,7 @@ title: 欲取代绝大多 JavaScript 工具链？Rome 尝鲜
 date: 2020-04-10
 comments: true
 toc: true
+# thumbnail: https://cdn.nlark.com/yuque/0/2020/png/86548/1586251655258-cd0f8a3b-f353-44d3-a591-784c03469d29.png
 categories: "JavaScript 技术精进"
 tags:
   - JavaScript
@@ -10,17 +11,19 @@ tags:
   - 工具链
 ---
 
-![](https://cdn.nlark.com/yuque/0/2020/png/86548/1586251655258-cd0f8a3b-f353-44d3-a591-784c03469d29.png#align=left&display=inline&height=277&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1320&originWidth=2048&size=664613&status=done&style=none&width=429)
-一个包含希腊斯巴达头盔的罗马项目 Logo
+文章缩略图：一个包含希腊斯巴达头盔的罗马项目 Logo
 
 > 条条大路通 Rome。在 Rome 还没有发布 NPM 正式版之际。我们围绕 JavaScript 工具链为核心点，来看看前往 Rome 的路上都有什么；以及 Rome 本身，意味着什么？
 
 二月的最后一天，我在为“[开源爱好者月刊](https://github.com/ningowood/open-source-magazine)”搜寻本月最新的开源项目时，偶遇一个名叫 Rome 的仓库霸榜，眼前着实一亮。“一个实验性的 JavaScript 工具链”、“包括编译器、lint、格式化程序、捆绑器、测试框架等”以及“旨在成为与 JavaScript 源码处理相关的所有功能的综合工具”短短几句话展现了一个宏大的目标。现在，是时候入坑了解一波并在个人能力范围内作一个浅要的分享。
 
+<!-- more -->
+
 Rome 由就职于 Facebook 同时是 Babel 和 Yarn 作者的 Sebastian McKenzie 主导开源，开源之前，Rome 基本是他的个人项目，现在 Facebook 愿意付薪水让他潜心开发。截止现在（2020 年 04 月初），Rome 的提交记录已经从 70+ 到 600+，贡献者拓展到了 40+ 位，产生了 30+ issues 和 170+ Pull Request。
 
+Rome 的 Star 趋势图，发布之初便 3k+ star：
+
 ![](https://cdn.nlark.com/yuque/0/2020/png/86548/1586250919893-28d3dc40-57d9-4a99-9023-50e8c259ffbd.png#align=left&display=inline&height=323&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1176&originWidth=1678&size=111441&status=done&style=none&width=461)
-Rome 的 Star 趋势图，发布之初便 3k+ star
 
 此外，或许也能从侧面呼应我曾在月刊第三期中收录的一句关于“创业公司和大公司开源出发点有何不同”的话：大公司可能在一个项目的早期便开源，凭借其号召力希望更多人一起“贡献”迭代，初创团队则会在产品相对成熟的时候再开放，希望尽快吸引用户深度“使用”，注重完善产品在工业环境下的综合表现。
 
