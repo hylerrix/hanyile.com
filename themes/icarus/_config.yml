@@ -77,12 +77,12 @@ navbar:
         Archives: /archives
         Categories: /categories
         Tags: /tags
-        About: /about
+        # About: /about
     # Links to be shown on the right of the navigation bar
     links:
         Download on GitHub:
             icon: fab fa-github
-            url: 'https://github.com/ppoffice/hexo-theme-icarus'
+            url: 'https://github.com/hylerrix'
 # Page footer configurations
 footer:
     # Links to be shown on the right of the footer section
@@ -95,7 +95,7 @@ footer:
             url: 'https://creativecommons.org/licenses/by/4.0/'
         Download on GitHub:
             icon: fab fa-github
-            url: 'https://github.com/ppoffice/hexo-theme-icarus'
+            url: 'https://github.com/hylerrix'
 # Article related configurations
 article:
     # Code highlight settings
@@ -129,16 +129,16 @@ donates:
         type: alipay
         # Alipay qrcode image URL
         qrcode: ''
-    # "Buy me a coffee" donate button configurations
-    -
-        type: buymeacoffee
-        # URL to the "Buy me a coffee" page
-        url: ''
-    # Patreon donate button configurations
-    -
-        type: patreon
-        # URL to the Patreon page
-        url: ''
+    # # "Buy me a coffee" donate button configurations
+    # -
+    #     type: buymeacoffee
+    #     # URL to the "Buy me a coffee" page
+    #     url: ''
+    # # Patreon donate button configurations
+    # -
+    #     type: patreon
+    #     # URL to the Patreon page
+    #     url: ''
     # Paypal donate button configurations
     -
         type: paypal
@@ -177,36 +177,36 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Your name
+        author: hylerrix(韩亦乐)
         # Author title
-        author_title: Your title
+        author_title: NingoWood(凝果屋)
         # Author's current location
-        location: Your location
+        location: Beijing, China
         # URL or path to the avatar image
-        avatar: 
+        avatar: https://avatars3.githubusercontent.com/u/19285461
         # Whether show the rounded avatar image
-        avatar_rounded: false
+        avatar_rounded: true
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
-        follow_link: 'https://github.com/ppoffice'
+        follow_link: 'https://github.com/hylerrix'
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:
                 icon: fab fa-github
-                url: 'https://github.com/ppoffice'
+                url: 'https://github.com/hylerrix'
             Facebook:
                 icon: fab fa-facebook
-                url: 'https://facebook.com'
+                url: 'https://facebook.com/hylerrix'
             Twitter:
                 icon: fab fa-twitter
-                url: 'https://twitter.com'
-            Dribbble:
-                icon: fab fa-dribbble
-                url: 'https://dribbble.com'
-            RSS:
-                icon: fas fa-rss
-                url: /
+                url: 'https://twitter.com/hylerrix'
+            # Dribbble:
+            #     icon: fab fa-dribbble
+            #     url: 'https://dribbble.com'
+            # RSS:
+            #     icon: fas fa-rss
+            #     url: /
     # Table of contents widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
@@ -219,46 +219,45 @@ widgets:
         type: links
         # Names and URLs of the sites
         links:
-            Hexo: 'https://hexo.io'
-            Bulma: 'https://bulma.io'
+            NingoWood: 'https://github.com/ningowood'
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
         position: left
         type: categories
-    # Recent posts widget configurations
-    -
-        # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: recent_posts
     # Archives widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
         position: left
         type: archives
+    # Recent posts widget configurations
+    -
+        # Where should the widget be placed, left sidebar or right sidebar
+        position: right
+        type: recent_posts
     # Tags widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
+        position: right
         type: tags
     # Google FeedBurner email subscription widget configurations
-    -
-        # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: subscribe_email
-        # Hint text under the email input
-        description: 
-        # Feedburner ID
-        feedburner_id: ''
+    # -
+    #     # Where should the widget be placed, left sidebar or right sidebar
+    #     position: left
+    #     type: subscribe_email
+    #     # Hint text under the email input
+    #     description: 
+    #     # Feedburner ID
+    #     feedburner_id: ''
     # Google AdSense unit configurations
-    -
-        # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: adsense
-        # AdSense client ID
-        client_id: ''
-        # AdSense AD unit ID
-        slot_id: ''
+    # -
+    #     # Where should the widget be placed, left sidebar or right sidebar
+    #     position: left
+    #     type: adsense
+    #     # AdSense client ID
+    #     client_id: ''
+    #     # AdSense AD unit ID
+    #     slot_id: ''
 # Plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/
 plugins:
