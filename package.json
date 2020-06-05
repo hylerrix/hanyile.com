@@ -1,8 +1,9 @@
 {
-  "name": "hexo-site",
-  "version": "0.0.0",
+  "name": "hanyile.com",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
+    "start": "hexo server",
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
