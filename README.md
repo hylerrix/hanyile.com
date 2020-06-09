@@ -1,4 +1,4 @@
-# hanyile.com
+# blog
 
 ## 内容方向
 
@@ -17,7 +17,7 @@
 初始化项目，安装主题：
 
 ```bash
-$ hexo init hanyile.com
+$ hexo init blog
 $ git clone https://github.com/ppoffice/hexo-theme-icarus.git themes/icarus
 # 根据 hexo server 后 icarus 的提示安装相关依赖
 $ yarn add bulma-stylus@0.8.0 hexo-component-inferno@^0.3.0 hexo-renderer-inferno@^0.1.3 inferno@^7.3.3 inferno-create-element@^7.3.3
