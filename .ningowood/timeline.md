@@ -21,7 +21,8 @@
 ## 2020-06-17
 
 * 尝试两小时半 [Ghost](https://github.com/TryGhost/Ghost) 决定年底前先用好 Hexo
-* Hexo + Icarus 部署 Github Pages
+* Hexo + Icarus 部署 [Github Pages](http://hylerrix.github.io/blog)
+  * 编写基础的 Github Actions 自动构建 master 分支到 gh-pages 上
 
 ## 2020-06-08
 
