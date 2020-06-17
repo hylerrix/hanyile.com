@@ -3,13 +3,13 @@
 ## 内容方向
 
 > 收录我 2020 年后的所有博客，2020 年之前的尽在：[@hylerrix/university](https://github.com/hylerrix/university)。
-> 博客文章若有修改，一切以本仓库内容为主而非其它第三方平台
+> 博客文章若有修改，一切以本仓库内容为主而非其它第三方平台。
 
 * 开源 + 大前端
 
 ## 站点技术栈
 
-* 主题：Hexo + Icarus(Cyberpunk 2077)
+* 主题：Hexo + Icarus
 * 图床：先使用语雀文章中的图片源链接
 
 ## 本地开发

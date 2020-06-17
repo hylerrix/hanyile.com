@@ -18,7 +18,12 @@
 * 将站点部署到 hanyile.com/blog 下
 * 站点引入搜索引擎流量监测 -> 相关插件支持
 
+## 2020-06-17
+
+* 尝试两小时半 [Ghost](https://github.com/TryGhost/Ghost) 决定年底前先用好 Hexo
+* Hexo + Icarus 部署 Github Pages
+
 ## 2020-06-08
 
-* 初始化 Hexo + Icarus 站点
+* 初始化 [Hexo](https://hexo.io/) + [Icarus](https://github.com/ppoffice/hexo-theme-icarus) 站点
 * 迁移分类重编 2020 年后所有文章
