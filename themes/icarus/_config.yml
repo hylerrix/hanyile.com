@@ -3,11 +3,11 @@ version: 3.0.0
 # Icarus theme variant, can be "default" or "cyberpunk"
 variant: default
 # Path or URL to the website's logo
-logo: /img/logo.svg
+logo: /img/logo.png
 # Page metadata configurations
 head:
     # URL or path to the website's icon
-    favicon: /img/favicon.svg
+    favicon: /img/logo.png
     # Open Graph metadata
     # https://hexo.io/docs/helpers.html#open-graph
     open_graph:
@@ -221,25 +221,25 @@ widgets:
         links:
             NingoWood: 'https://github.com/ningowood'
     # Categories widget configurations
-    -
+    # -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: categories
+        # position: left
+        # type: categories
     # Archives widget configurations
-    -
+    # -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: archives
+        # position: left
+        # type: archives
     # Recent posts widget configurations
-    -
+    # -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: right
-        type: recent_posts
+        # position: right
+        # type: recent_posts
     # Tags widget configurations
-    -
+    # -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: right
-        type: tags
+        # position: right
+        # type: tags
     # Google FeedBurner email subscription widget configurations
     # -
     #     # Where should the widget be placed, left sidebar or right sidebar

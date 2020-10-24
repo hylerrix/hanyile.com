@@ -22,11 +22,11 @@ module.exports = class extends Migration {
         delete result.meta;
         delete result.rss;
 
-        if (result.logo === '/images/logo.svg') {
+        if (result.logo === '/images/logo.png') {
             result.logo = result.logo.replace(/^\/images/, '/img');
         }
 
-        if (result.head.favicon === '/img/favicon.svg') {
+        if (result.head.favicon === '/img/logo.png') {
             result.head.favicon = result.head.favicon.replace(/^\/images/, '/img');
         }
 
